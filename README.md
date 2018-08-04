@@ -25,6 +25,7 @@ Class Retro's transparent, so you can easily make changes. You can also request 
 ### 3. We supply
 Does the game ask for a manual? You got it. Maybe something you need to read? It's right there. Map? Yep. Can't run the game? No problem.  We look for as much information as we can, and grab as much as we can, to give you, the consumer, what you need, so you can use it at the right time.
 
+---
 
 ### Stop the hassle. Stop looking for that additional software,
 or that driver. It all starts here at Class Retro.
