@@ -5,7 +5,7 @@ Welcome to Class Retro, where retro games are brought back to playing status.
 
 ## The Story
 
-Hi there, I'm @jbmagination. I started Class Retro when I was playing Wishbringer on a Windows laptop. Eventually, I was looking around the files, and saw it was using DOSBox. I was thinking, "Sweet! Let's check them out." I did, and it was supporting TONS of systems! But, all the downloads I found were exclusive to Windows. So many people were missing out on great games, and I wanted to give them that opportunity. So, I made Class Retro to help people play very old games, even if you're not on Windows. 
+Hi there, I'm [@jbmagination](https://github.com/jbmagination). I started Class Retro when I was playing Wishbringer on a Windows laptop. Eventually, I was looking around the files, and saw it was using DOSBox. I was thinking, "Sweet! Let's check them out." I did, and it was supporting TONS of systems! But, all the downloads I found were exclusive to Windows. So many people were missing out on great games, and I wanted to give them that opportunity. So, I made Class Retro to help people play very old games, even if you're not on Windows. 
 
 ## Featured Games
 
