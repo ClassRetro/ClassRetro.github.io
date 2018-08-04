@@ -9,6 +9,12 @@ Hi there, I'm @jbmagination. I started Class Retro when I was playing Wishbringe
 
 ## Featured Games
 
+### Released
+```
+None
+```
+
+### Planned
 ```
 Wishbringer: The Magick Stone of Dreams (DOS, 1985)
 Test Drive (Amiga, 1988)
