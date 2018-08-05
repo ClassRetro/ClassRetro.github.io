@@ -16,7 +16,7 @@ Wishbringer: The Magick Stone of Dreams (DOS, 1985)
 
 ### Planned
 ```
-Test Drive (Amiga, 1988)
+None
 ```
 
 ## Why Class Retro?
