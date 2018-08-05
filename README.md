@@ -11,12 +11,11 @@ Hi there, I'm [@jbmagination](https://github.com/jbmagination). I started Class 
 
 ### Released
 ```
-None
+Wishbringer: The Magick Stone of Dreams (DOS, 1985)
 ```
 
 ### Planned
 ```
-Wishbringer: The Magick Stone of Dreams (DOS, 1985)
 Test Drive (Amiga, 1988)
 ```
 
@@ -29,8 +28,10 @@ Class Retro doesn't require Windows like most retro game sites do. With Class Re
 Class Retro's transparent, so you can easily make changes. You can also request games to add.
 
 ### 3. We supply
-Does the game ask for a manual? You got it. Maybe something you need to read? It's right there. Map? Yep. Can't run the game? No problem.  We look for as much information as we can, and grab as much as we can, to give you, the consumer, what you need, so you can use it at the right time.
+Does the game ask for a manual? You got it. Maybe something you need to read? It's right there. Map? Yep. We look for as much information as we can, and grab as much as we can, to give you, the consumer, what you need, so you can use it at the right time.
 
+### 4. Game support
+We try to supply support for as many games as we can. No, we don't change the games themselves, but but we try helping you run and set up the game the way you want it.
 ---
 
 ### Stop the hassle. Stop looking for that additional software,
