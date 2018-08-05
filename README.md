@@ -32,6 +32,7 @@ Does the game ask for a manual? You got it. Maybe something you need to read? It
 
 ### 4. Game support
 We try to supply support for as many games as we can. No, we don't change the games themselves, but but we try helping you run and set up the game the way you want it.
+
 ---
 
 ### Stop the hassle. Stop looking for that additional software,
