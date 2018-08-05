@@ -31,7 +31,7 @@ Class Retro's transparent, so you can easily make changes. You can also request 
 Does the game ask for a manual? You got it. Maybe something you need to read? It's right there. Map? Yep. We look for as much information as we can, and grab as much as we can, to give you, the consumer, what you need, so you can use it at the right time.
 
 ### 4. Game support
-We try to supply support for as many games as we can. No, we don't change the games themselves, but but we try helping you run and set up the game the way you want it.
+We try to supply support for as many games as we can. No, we don't change the games themselves, but we try helping you run and set up the game the way you want it.
 
 ---
 
