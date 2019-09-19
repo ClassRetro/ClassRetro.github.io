@@ -39,4 +39,4 @@ We try to supply support for as many games as we can. No, we don't change the ga
 or that driver. It all starts here at Class Retro.
 
 
-<p>&#169; Class Retro 2018</p>
+<p>&#169; Class Retro 2019</p>
