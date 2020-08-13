@@ -16,7 +16,7 @@ Wishbringer: The Magick Stone of Dreams (DOS, 1985)
 
 ### Planned
 ```
-None
+DOOM (DOS, 1993)
 ```
 
 ## Why Class Retro?
