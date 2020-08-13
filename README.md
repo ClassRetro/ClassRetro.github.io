@@ -35,4 +35,4 @@ We try to supply support for as many games as we can, without modifying the game
 
 ---
 
-<p>&#169; Class Retro 2019</p>
+<p>&#169; Class Retro 2018-2020</p>
