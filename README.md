@@ -1,11 +1,11 @@
 # Class Retro
 
-Welcome to Class Retro, where retro games are brought back to playing status.
+Welcome to Class Retro, where retro games are brought back to playing status. Stop looking for that additional software, or that driver.
 
 
 ## The Story
 
-Hi there, I'm [@jbmagination](https://github.com/jbmagination). I started Class Retro when I was playing Wishbringer on a Windows laptop. Eventually, I was looking around the files, and saw it was using DOSBox. I noticed that it supported many different operating systems, but, anything besides a Windows download was hardly seen anywhere. So many people were missing out on great games, and I wanted to give them that opportunity. So, I made Class Retro to help people play very old games, even if you're not on Windows. 
+Hi there, I'm [@jbmagination](https://github.com/jbmagination). I started Class Retro when I was playing Wishbringer on a Windows laptop. Eventually, I was looking around the files, and saw it was using DOSBox. I noticed that it supported many different operating systems, but, anything besides a Windows download was hardly seen anywhere. So many people were missing out on great games, and I wanted to give them that opportunity. So, I made Class Retro to help people play a variety of games, even if you're not on Windows. 
 
 ## Featured Games
 
@@ -34,9 +34,5 @@ Does the game ask for a manual? You got it. Maybe something you need to read? It
 We try to supply support for as many games as we can, without modifying the game itself.
 
 ---
-
-### Stop the hassle. Stop looking for that additional software,
-or that driver. It all starts here at Class Retro.
-
 
 <p>&#169; Class Retro 2019</p>
